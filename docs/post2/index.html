@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Docs - Ignacio Adriasola-Taller</title>
+  <title>Post 2 - Ignacio Adriasola-Taller</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="https://igadriasola.github.io/favicon.png">
@@ -18,7 +18,7 @@
 
 </head>
 
-<body class='page page-default-list'>
+<body class='page page-default-single'>
   <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
     
@@ -29,7 +29,7 @@
       </a>
     </li>
     
-    <li class="menu-item-dococumentación active">
+    <li class="menu-item-dococumentación">
       <a href="/docs/">
         <span>Dococumentación</span>
       </a>
@@ -56,7 +56,7 @@
       </a>
     </li>
     
-    <li class="menu-item-dococumentación active">
+    <li class="menu-item-dococumentación">
       <a href="/docs/">
         <span>Dococumentación</span>
       </a>
@@ -94,7 +94,7 @@
       <a href="https://igadriasola.github.io/docs/post1/">Mobiliario Grupal</a>
     </li>
     
-    <li class="">
+    <li class="active ">
       <a href="https://igadriasola.github.io/docs/post2/">Post 2</a>
     </li>
     
@@ -121,57 +121,33 @@
         </div>
         <div class="col-12 col-md-9">
           
+<h1 class="title">Post 2</h1>
+<div class="content ">
+  <!-- raw HTML omitted -->
+<h1 id="bits-bites">Bits&amp; Bites</h1>
+<h1 id="entrevistas">Entrevistas</h1>
 
-<span class="overview">Resumen</span>
-<h1 class="title">Docs</h1>
-<div class="content">
-  
+<iframe id='pdf-hugo' src='/pdf/Entrevista.pdf'
+frameborder="0" scrolling="yes" seamless="seamless" style="display:block; width:100%; height:60vh;"></iframe>
+
+<button onclick="myFunction('pdf-hugo')" class="button button-primary mb-2" style="width: 100%;">Ver Pantalla Completa</button>
+
+<script>
+    function myFunction(id) {
+      document.getElementById(id).classList.add("full-screen");
+    }
+    document.addEventListener('keydown', function(event){
+	if(event.key === "Escape"){
+        document.getElementById('pdf-hugo').classList.remove("full-screen");
+	}
+});
+</script>
+<h1 id="recap">Recap</h1>
+<p><img src="/img/Pizza01.jpg" alt="Imagen Simple">
+<img src="/img/Pizza02.jpg" alt="Imagen Simple"></p>
+
 </div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://igadriasola.github.io/docs/post1/">Mobiliario Grupal</a></h2>
-  <p>Proyectos que me identifican como estudiante</p>
 </div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://igadriasola.github.io/docs/post2/">Post 2</a></h2>
-  <p>Proyectos que me identifican como estudiante</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://igadriasola.github.io/docs/ejemplo/">Probando</a></h2>
-  <p>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://igadriasola.github.io/docs/markdown/">Ejemplos Markdown</a></h2>
-  <p>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://igadriasola.github.io/docs/encargo0/">Encargo 0</a></h2>
-  <p>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://igadriasola.github.io/docs/mobiliarioindividual/">Mobiliario individual</a></h2>
-  <p>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</p>
-</div>
-
-
-
 
         </div>
       </div>
