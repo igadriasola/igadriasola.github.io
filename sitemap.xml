@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://igadriasola.github.io/docs/encargo2/</loc>
+    <lastmod>2020-06-17T19:30:08+10:00</lastmod>
+  </url><url>
     <loc>https://igadriasola.github.io/docs/encargo1.3/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
     <loc>https://igadriasola.github.io/docs/encargo1.5/</loc>
-    <lastmod>2020-06-17T19:30:08+10:00</lastmod>
-  </url><url>
-    <loc>https://igadriasola.github.io/docs/encargo2/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
     <loc>https://igadriasola.github.io/docs/encargo2.1/</loc>

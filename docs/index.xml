@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://igadriasola.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Electronica Aplicada</title>
+      <link>https://igadriasola.github.io/docs/encargo2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://igadriasola.github.io/docs/encargo2/</guid>
+      <description>Proyectos que me identifican como estudiante</description>
+    </item>
+    
+    <item>
       <title>Encargo 1.3</title>
       <link>https://igadriasola.github.io/docs/encargo1.3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -31,15 +40,6 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://igadriasola.github.io/docs/encargo1.5/</guid>
-      <description>Proyectos que me identifican como estudiante</description>
-    </item>
-    
-    <item>
-      <title>Encargo 2.0</title>
-      <link>https://igadriasola.github.io/docs/encargo2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://igadriasola.github.io/docs/encargo2/</guid>
       <description>Proyectos que me identifican como estudiante</description>
     </item>
     
